@@ -1,0 +1,30 @@
+/* 
+
+*/
+.wrapper-container {
+  display: flex;
+  height: 90vh;
+  width: 90vw;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 20px;
+}
+.wrapper-container button {
+  padding: 10px 20px;
+  background-color: #614101;
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.value-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+  font-size: 40px;
+  margin-top: 50px;
+}
