@@ -1,6 +1,6 @@
 import { useState } from "react";
 import data from "./data";
-import "./index.css";
+import "./styles.css";
 
 function Accordian() {
   const [selected, setSelected] = useState(null);
@@ -53,7 +53,6 @@ function Accordian() {
                 : selected === dataItem.id && (
                     <div className="content">{dataItem.answer}</div>
                   )}
-             
             </div>
           ))
         ) : (
