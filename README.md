@@ -1,5 +1,9 @@
 #### Running Notes
 
+#### To run the application:
+
+npm run dev
+
 ### Accorian Project
 
 Step to create new project

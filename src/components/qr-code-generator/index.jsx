@@ -8,6 +8,7 @@ const QRCodeGenerator = () => {
 
   function handleGenerateQRCode() {
     setQrCode(input);
+    setInput("");
   }
   return (
     <div className="qr-code-generator">
