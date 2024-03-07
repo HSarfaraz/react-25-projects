@@ -16,3 +16,7 @@ https://picsum.photos/v2/list?page=1&limit=10
 
 sample json:
 dummyjson.com/docs/products
+
+### QR Code generator
+
+npm i react-qr-code

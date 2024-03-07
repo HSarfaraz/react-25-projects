@@ -3,6 +3,7 @@ import ChangeName from "./ChangeName";
 import Accordian from "./components/accordian";
 import ImageSlider from "./components/image-slider";
 import LoadMoreData from "./components/load-more-data";
+import QRCodeGenerator from "./components/qr-code-generator";
 import RandomColor from "./components/random-color";
 import StarRating from "./components/star-rating";
 import TreeView from "./components/tree-view";
@@ -10,7 +11,7 @@ import TreeView from "./components/tree-view";
 function App() {
   return (
     <>
-     {/*  <ChangeName />
+      {/*  <ChangeName />
       <Accordian />
       <RandomColor />
       <StarRating noOfStars={5} />
@@ -20,7 +21,8 @@ function App() {
         limit={"10"}
       />
       <LoadMoreData /> */}
-      <TreeView />
+      {/* <TreeView /> */}
+      <QRCodeGenerator />
     </>
   );
 }
