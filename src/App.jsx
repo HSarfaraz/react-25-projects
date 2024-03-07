@@ -1,6 +1,7 @@
 // import "./App.css";
 import ChangeName from "./ChangeName";
 import Accordian from "./components/accordian";
+import ModalTest from "./components/custom-modal-popup/modal-test";
 import TabsTest from "./components/custom-tabs/tab-test";
 import ImageSlider from "./components/image-slider";
 import LightDarkMode from "./components/light-dark-mode";
@@ -14,21 +15,22 @@ import TreeView from "./components/tree-view";
 function App() {
   return (
     <>
-      {/*  <ChangeName />
-      <Accordian />
-      <RandomColor />
-      <StarRating noOfStars={5} />
-      <ImageSlider
+      {/* <ChangeName /> */}
+      {/* <Accordian /> */}
+      {/* <RandomColor /> */}
+      {/* <StarRating noOfStars={5} /> */}
+      {/* <ImageSlider
         url={"https://picsum.photos/v2/list"}
         page={"1"}
         limit={"10"}
-      />
-      <LoadMoreData /> */}
+      /> */}
+      {/* <LoadMoreData /> */}
       {/* <TreeView /> */}
       {/* <QRCodeGenerator /> */}
       {/* <LightDarkMode /> */}
       {/* <ScrollIndicator url={"https://dummyjson.com/products?limit=100"} /> */}
-      <TabsTest />
+      {/* <TabsTest /> */}
+      <ModalTest />
     </>
   );
 }

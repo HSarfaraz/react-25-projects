@@ -47,8 +47,9 @@ const RandomColor = () => {
         Generate Random Color
       </button>
       <div className="value-container">
-        <h3>{typeOfColor === "hex" ? "Hex Color :" : "RGB Color"}</h3>
-        <h3>{color}</h3>
+        <h4>
+          {typeOfColor === "hex" ? "Hex Color :" : "RGB Color"} : {color}
+        </h4>
       </div>
     </div>
   );

@@ -27,6 +27,10 @@
   left: 1rem;
 }
 
+.arrow-right {
+  right: 1rem;
+}
+
 .circle-indicators {
   display: flex;
   position: absolute;
@@ -36,7 +40,7 @@
 .current-indicator {
   background-color: #fff;
   height: 15px;
-  width: 15px;
+  width: 5px;
   border-radius: 50%;
   border: none;
   outline: none;
@@ -50,4 +54,8 @@
 
 .inactive-indicator {
   background-color: gray;
+}
+
+button.current-indicator {
+  padding: 0.5rem;
 }
