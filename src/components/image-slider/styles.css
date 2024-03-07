@@ -48,6 +48,6 @@
   display: none;
 }
 
-.current-indicator .inactive-indicator {
+.inactive-indicator {
   background-color: gray;
 }
