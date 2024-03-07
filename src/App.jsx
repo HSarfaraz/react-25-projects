@@ -1,6 +1,7 @@
 // import "./App.css";
 import ChangeName from "./ChangeName";
 import Accordian from "./components/accordian";
+import TabsTest from "./components/custom-tabs/tab-test";
 import ImageSlider from "./components/image-slider";
 import LightDarkMode from "./components/light-dark-mode";
 import LoadMoreData from "./components/load-more-data";
@@ -26,7 +27,8 @@ function App() {
       {/* <TreeView /> */}
       {/* <QRCodeGenerator /> */}
       {/* <LightDarkMode /> */}
-      <ScrollIndicator url={"https://dummyjson.com/products?limit=100"} />
+      {/* <ScrollIndicator url={"https://dummyjson.com/products?limit=100"} /> */}
+      <TabsTest />
     </>
   );
 }
