@@ -32,16 +32,6 @@ const menus = [
           {
             label: "Register",
             to: "/register",
-            children: [
-              {
-                label: "random data",
-                to: "/random1",
-              },
-              {
-                label: "random data",
-                to: "/random2",
-              },
-            ],
           },
         ],
       },
