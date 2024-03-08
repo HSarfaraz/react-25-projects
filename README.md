@@ -55,3 +55,14 @@ npm i react-qr-code
 ### Custom Tabs
 
 ![Custom Tabs](./screenshots/tabs.png)
+
+### Github Profile Finder
+
+![Github Profile Finder](./screenshots/github-profile-finder.png)
+
+### Search auto complete
+
+![Search auto complete](./screenshots/tabs.png)
+
+reference data:
+https://dummyjson.com/users
