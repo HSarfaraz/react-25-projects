@@ -66,3 +66,7 @@ npm i react-qr-code
 
 reference data:
 https://dummyjson.com/users
+
+### Tic Tac Toe
+
+![Tic Tac Toe](./screenshots/tic-tac-toe.png)
