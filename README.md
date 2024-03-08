@@ -62,7 +62,7 @@ npm i react-qr-code
 
 ### Search auto complete
 
-![Search auto complete](./screenshots/tabs.png)
+![Search auto complete](./screenshots/search-auto-complete.png)
 
 reference data:
 https://dummyjson.com/users
