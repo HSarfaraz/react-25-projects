@@ -28,7 +28,7 @@ https://picsum.photos/v2/list?page=1&limit=10
 ![Load more data](./screenshots/load-more-data.png)
 
 sample json:
-dummyjson.com/docs/products
+"https://dummyjson.com/products"
 
 ### 4. QR Code generator
 
@@ -74,3 +74,8 @@ https://dummyjson.com/users
 ### 13. Feature Flag
 
 ![Feature Flag](./screenshots/feature-flag.png)
+
+
+### 14. Custom Hooks
+
+![Custom Hooks](./screenshots/custom-hooks.png)

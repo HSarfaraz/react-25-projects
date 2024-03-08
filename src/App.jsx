@@ -16,6 +16,7 @@ import SearchAutoComplete from "./components/search-auto-complete-with-api";
 import StarRating from "./components/star-rating";
 import TicTacToe from "./components/tic-tac-toe";
 import TreeView from "./components/tree-view";
+import UseFetchHookTest from "./components/use-fetch/test";
 
 function App() {
   return (
@@ -39,9 +40,10 @@ function App() {
       {/* <GithubProfileFinder /> */}
       {/* <SearchAutoComplete /> */}
       {/* <TicTacToe /> */}
-      <FeatureFlagGlobalState>
+      {/* <FeatureFlagGlobalState>
         <FeatureFlag />
-      </FeatureFlagGlobalState>
+      </FeatureFlagGlobalState> */}
+      <UseFetchHookTest />
     </>
   );
 }
