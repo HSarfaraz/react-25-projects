@@ -3,6 +3,8 @@ import ChangeName from "./ChangeName";
 import Accordian from "./components/accordian";
 import ModalTest from "./components/custom-modal-popup/modal-test";
 import TabsTest from "./components/custom-tabs/tab-test";
+import FeatureFlag from "./components/feature-flag";
+import FeatureFlagGlobalState from "./components/feature-flag/context";
 import GithubProfileFinder from "./components/github-profile-finder";
 import ImageSlider from "./components/image-slider";
 import LightDarkMode from "./components/light-dark-mode";
@@ -36,7 +38,10 @@ function App() {
       {/* <ModalTest /> */}
       {/* <GithubProfileFinder /> */}
       {/* <SearchAutoComplete /> */}
-      <TicTacToe />
+      {/* <TicTacToe /> */}
+      <FeatureFlagGlobalState>
+        <FeatureFlag />
+      </FeatureFlagGlobalState>
     </>
   );
 }
