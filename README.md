@@ -79,11 +79,10 @@ https://dummyjson.com/users
 
 ![Custom Hooks](./screenshots/custom-hooks.png)
 
-### 14. Outside Click
+### 15. Outside Click
 
-![Outside Click](./screenshots/outside-click.png)
-
-
+![Outside Click](./screenshots/outside-click-1.png.png)
+![Outside Click](./screenshots/outside-click-2.png.png)
 
 <p>-----------------------------------------------------------------------------------</p>
 
