@@ -75,7 +75,32 @@ https://dummyjson.com/users
 
 ![Feature Flag](./screenshots/feature-flag.png)
 
-
 ### 14. Custom Hooks
 
 ![Custom Hooks](./screenshots/custom-hooks.png)
+
+### 14. Outside Click
+
+![Outside Click](./screenshots/outside-click.png)
+
+
+
+<p>-----------------------------------------------------------------------------------</p>
+
+##### My Learning out of this course
+
+- Few javascript concept is repeating
+- spread operator example: [...options]
+- ternary condition, Example: [condition ? true : false]
+- if loop, example: if(condition) return "some content"
+- for loop, example: for(let i=0;i<someVariable.lenght;i++)
+- Arrays manipulation
+- String manipulation
+- javascript logics using operator conditions
+- try, catch
+
+- - Few React concept is repeating
+- ternary condition, Example: [condition ? true : false]
+- fetching an api by calling a method in useEffect
+- mostly setting the values using set, example: seLoading(true)
+- checking first, if the available or not then call the api or set the value
