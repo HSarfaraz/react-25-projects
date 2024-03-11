@@ -84,6 +84,11 @@ https://dummyjson.com/users
 ![Outside Click](./screenshots/outside-click-1.png)
 ![Outside Click](./screenshots/outside-click-2.png)
 
+### 16. use WindoowResize Hook
+
+![Window Resize](./screenshots/window-resize-1.png)
+![Window Resize](./screenshots/window-resize-2.png)
+
 <p>-----------------------------------------------------------------------------------</p>
 
 ##### My Learning out of this course
