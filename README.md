@@ -81,8 +81,8 @@ https://dummyjson.com/users
 
 ### 15. Outside Click
 
-![Outside Click](./screenshots/outside-click-1.png.png)
-![Outside Click](./screenshots/outside-click-2.png.png)
+![Outside Click](./screenshots/outside-click-1.png)
+![Outside Click](./screenshots/outside-click-2.png)
 
 <p>-----------------------------------------------------------------------------------</p>
 
